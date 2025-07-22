@@ -29,18 +29,18 @@
 
 
 //Create a terminal cloack (HH:MM:SS);
-function displayClock () {
-    const now = new Date();
+// function displayClock () {
+//     const now = new Date();
 
-    const hours = String(now.getHours()).padStart(2, '0');
-    const min = String(now.getMinutes()).padStart(2, '0');
-    const sec = String(now.getSeconds()).padStart(2, '0');
+//     const hours = String(now.getHours()).padStart(2, '0');
+//     const min = String(now.getMinutes()).padStart(2, '0');
+//     const sec = String(now.getSeconds()).padStart(2, '0');
 
-    console.clear();
-    console.log(`${hours}:${min}:${sec}`);
-}
+//     console.clear();
+//     console.log(`${hours}:${min}:${sec}`);
+// }
 
-setInterval(displayClock, 1000);
+// setInterval(displayClock, 1000);
 
 
 
