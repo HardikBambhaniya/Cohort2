@@ -35,6 +35,13 @@ for(i = 0; i <= 100; i++) {
 */
 
 
+
+
+
+
+
+
+
 //Arrays 
 // let number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
@@ -88,6 +95,12 @@ for(i = 0; i <= 100; i++) {
 
 
 
+
+
+
+
+
+
 //objects
 
 // const user1 = {
@@ -128,9 +141,15 @@ for(i = 0; i <= 100; i++) {
 //console.log(user2["firstName"]); //way to aggrigate data of object
 
 
+
+
+
+
+
+
+
+
 //Functions
-
-
 
 // function findSum(a, b) {
 //     //function takes prompt as an argument and do operation
