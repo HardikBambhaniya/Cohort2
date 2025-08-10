@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.main{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#remaining{
+    height: 150px;
+    background-color: antiquewhite;
+}
+
+
+#completed{
+    height: 150px;
+    background-color: antiquewhite;
+}
+
+#yourTodo{
+    height: 150px;
+    background-color: antiquewhite;
+}
